@@ -29,7 +29,7 @@ struct ContentView: View {
                     }
                     PointMark(x: .value("Dia", weekdays[idx]),
                               y: .value("Pasos", steps[idx]))
-                    .foregroundStyle(.black)
+                    .foregroundStyle(.red)
                     .lineStyle(StrokeStyle(lineWidth: 5))
                     
                     LineMark(x: .value("Dia", weekdays[idx]),

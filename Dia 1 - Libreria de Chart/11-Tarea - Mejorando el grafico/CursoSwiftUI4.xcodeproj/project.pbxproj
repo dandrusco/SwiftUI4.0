@@ -208,11 +208,12 @@
 			};
 			buildConfigurationList = B33BCDC42AF556FB0027EDC8 /* Build configuration list for PBXProject "CursoSwiftUI4" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = "es-419";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				"es-419",
 			);
 			mainGroup = B33BCDC02AF556FB0027EDC8;
 			productRefGroup = B33BCDCA2AF556FB0027EDC8 /* Products */;
